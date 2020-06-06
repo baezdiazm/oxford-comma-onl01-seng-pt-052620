@@ -4,7 +4,7 @@ if array.length == 2
   array[-1].prepend (" and ")
   array.join
 
-elsif array.lenght == 1
+elsif array.length == 1
   array.join
 
 elsif array > 2
