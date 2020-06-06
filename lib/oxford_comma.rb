@@ -8,7 +8,7 @@ elsif array.length == 1
   array.join
 
 elsif array.length > 2
-  array[-1].prepend ("and ")
+  array[-1].prepend ("and")
   array.join (", ")
 end
 
